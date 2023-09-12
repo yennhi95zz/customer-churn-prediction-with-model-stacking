@@ -10,9 +10,12 @@
 
 Welcome to the GitHub repository for the project **Enhancing Customer Churn Prediction with Continuous Experiment Tracking in Machine Learning.** This hands-on project focuses on predicting customer churn in a telecom service using a model stacking approach. We aim to provide you with insights into dealing with classification problems, handling imbalanced datasets, and utilizing model stacking to enhance predictive performance.
 
+![image](https://github.com/yennhi95zz/customer-churn-prediction-with-model-stacking/assets/88694623/efcf31b8-169c-41e5-8fdf-a4072a0d8864)
+
+
 ### Dataset
 
-You can use the [Telco Customer Churn dataset](https://www.kaggle.com/nhiyen95/telco-customer-churn) from Kaggle. This dataset contains information about telecom customers, including various features like contract type, monthly charges, and whether the customer churned or not.
+You can use the [Telco Customer Churn](https://www.kaggle.com/nhiyen95/telco-customer-churn) dataset from Kaggle. This dataset contains information about telecom customers, including various features like contract type, monthly charges, and whether the customer churned or not.
 
 ### Objective
 
