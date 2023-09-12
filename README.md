@@ -40,7 +40,7 @@ This project will give you insights into dealing with classification problems, h
 
 ## References
 
-- [GitHub Report](https://github.com/yennhi95zz/customer-churn-prediction-with-model-stacking)
+- [GitHub Repository](https://github.com/yennhi95zz/customer-churn-prediction-with-model-stacking)
 - [Kaggle Project](https://www.kaggle.com/nhiyen/customer-churn-prediction-with-model-stacking)
 - [Medium Article](https://medium.com/@yennhi95zz/a-hands-on-project-enhancing-customer-churn-prediction-with-continuous-experiment-tracking-in-77aeaff242f7)
 
